@@ -1,0 +1,50 @@
+[
+    {
+    "id":1,
+    "ofocode":"0110",
+    "country":"TH",
+    "location":{
+        "lat":98.6,
+        "lng":5.3
+    },
+    "passcode":"9999",
+    "active":true
+
+},
+{
+    "id":2,
+    "ofocode":"0210",
+    "country":"TH",
+    "location":{
+        "lat":98.6,
+        "lng":5.3
+    },
+    "passcode":"9999",
+    "active":true
+
+},
+{
+    "id":3,
+    "ofocode":"0310",
+    "country":"TH",
+    "location":{
+        "lat":98.6,
+        "lng":5.3
+    },
+    "passcode":"9999",
+    "active":true
+
+},
+{
+    "id":4,
+    "ofocode":"0410",
+    "country":"TH",
+    "location":{
+        "lat":98.6,
+        "lng":5.3
+    },
+    "passcode":"9999",
+    "active":true
+
+}
+]
